@@ -1,0 +1,320 @@
+{
+	"success": true,
+	"message": "Data loading succeded",
+	"android": [
+		{
+			"nama_group": "ADB (Android Developer Bandung)",
+			"link_tele": "https://t.me/androidDevBdg"
+		},
+		{
+			"nama_group": "ADN (Android Developer Nasional)",
+			"link_tele": "https://t.me/androiddevelopernasional"
+		},
+		{
+			"nama_group": "Belajar Bareng Android Jakarta",
+			"link_tele": "https://t.me/BelajarBarengAndroid"
+		},
+		{
+			"nama_group": "SANDEC (Semarang Android Developer Center)",
+			"link_tele": "https://t.me/AndroidSemarang"
+		},
+		{
+			"nama_group": "AndroidDev Surabaya",
+			"link_tele": "https://t.me/androiddevsurabaya"
+		}
+	],
+	"bash": [
+		{
+			"nama_group": "Bash.ID",
+			"link_tele": "https://t.me/Bash_ID"
+		}
+	],
+	"c": [
+		{
+			"nama_group": "Indonesia C/C++ Warriors",
+			"link_tele": "https://t.me/idcplc"
+		}
+	],
+	"crystal": [
+		{
+			"nama_group": "Crystal User Group Indonesia",
+			"link_tele": "https://t.me/CrystalID"
+		}
+	],
+	"dart": [
+		{
+			"nama_group": "Flutter Indonesia",
+			"link_tele": "https://t.me/flutter_id"
+		}
+	],
+	"elixir": [
+		{
+			"nama_group": "Elixir ID",
+			"link_tele": "https://t.me/elixir_id"
+		}
+	],
+	"golang": [
+		{
+			"nama_group": "Golang Indonesia",
+			"link_tele": "https://t.me/golangID"
+		}
+	],
+	"hashkell": [
+		{
+			"nama_group": "Hashkell ID",
+			"link_tele": "https://t.me/haskell_id"
+		}
+	],
+	"java": [
+		{
+			"nama_group": "JVM User Group",
+			"link_tele": "https://t.me/JVMUserGroup"
+		}
+	],
+	"javascript": [
+		{
+			"nama_group": "Angular Indonesia",
+			"link_tele": "https://t.me/AngularID"
+		},
+		{
+			"nama_group": "Electron Desktop User Group",
+			"link_tele": "https://t.me/electronatom"
+		},
+		{
+			"nama_group": "IONIC Indonesia",
+			"link_tele": "https://t.me/indonesiaionic"
+		},
+		{
+			"nama_group": "JavaScript Indonesia",
+			"link_tele": "https://t.me/js_id"
+		},
+		{
+			"nama_group": "NodeJS Indonesia",
+			"link_tele": "https://t.me/nodejsid"
+		},
+		{
+			"nama_group": "NuxtJS Indonesia",
+			"link_tele": "https://t.me/nuxtjsid"
+		},
+		{
+			"nama_group": "Polymer Indonesia",
+			"link_tele": "https://t.me/polymer_id"
+		},
+		{
+			"nama_group": "ReactJS Indonesia",
+			"link_tele": "https://t.me/react_id"
+		},
+		{
+			"nama_group": "React Native Indonesia",
+			"link_tele": "https://t.me/reactnative_id"
+		},
+		{
+			"nama_group": "Vue.js Indonesia",
+			"link_tele": "https://t.me/vuejsid"
+		}
+	],
+	"kotlin": [
+		{
+			"nama_group": "Kotlin Indonesia",
+			"link_tele": "https://t.me/KotlinID"
+		}
+	],
+	"microsoft": [
+		{
+			"nama_group": "dotnet.id",
+			"link_tele": "https://t.me/dotnetusergroup"
+		},
+		{
+			"nama_group": "C# Indonesia",
+			"link_tele": "https://t.me/idcsharp"
+		},
+		{
+			"nama_group": "Xamarin Indonesia",
+			"link_tele": "https://t.me/xamarinindonesia"
+		},
+		{
+			"nama_group": "SQL Server Indonesia",
+			"link_tele": "https://t.me/SQLSrvID"
+		}
+	],
+	"pascal_delphi": [
+		{
+			"nama_group": "Pascal Indonesia",
+			"link_tele": "https://t.me/PascalID"
+		},
+		{
+			"nama_group": "Kelompok Penggemar Pemrograman Delphi Indonesia",
+			"link_tele": "https://t.me/kppdi"
+		}
+	],
+	"php": [
+		{
+			"nama_group": "CodeIgniter Indonesia",
+			"link_tele": "https://t.me/codeigniterindonesia"
+		},
+		{
+			"nama_group": "Laravel Indonesia",
+			"link_tele": "https://t.me/laravelindonesia"
+		},
+		{
+			"nama_group": "PHP Indonesia for Student",
+			"link_tele": "https://t.me/PHPIDforStudent"
+		},
+		{
+			"nama_group": "PHP Indonesia Jogloraya",
+			"link_tele": "https://t.me/phpjogloraya"
+		},
+		{
+			"nama_group": "Symfony Framework Indonesia",
+			"link_tele": "https://t.me/symfonyid"
+		},
+		{
+			"nama_group": "Telegram Bot PHP - Indonesia",
+			"link_tele": "https://t.me/botphp"
+		},
+		{
+			"nama_group": "Yii Framework Indonesia",
+			"link_tele": "https://t.me/YiiFrameworkIndonesia"
+		}
+	],
+	"python": [
+		{
+			"nama_group": "Django Indonesia",
+			"link_tele": "https://t.me/DjangoID"
+		},
+		{
+			"nama_group": "Flask ID",
+			"link_tele": "https://t.me/flaskid"
+		},
+		{
+			"nama_group": "Python ID",
+			"link_tele": "https://t.me/pythonID"
+		},
+		{
+			"nama_group": "Surabaya.py",
+			"link_tele": "https://t.me/surabayadotpy"
+		}
+	],
+	"ruby": [
+		{
+			"nama_group": "Rails Indonesia",
+			"link_tele": "https://t.me/RailsID"
+		},
+		{
+			"nama_group": "Ruby Indonesia",
+			"link_tele": "https://t.me/ruby_id"
+		}
+	],
+	"rust": [
+		{
+			"nama_group": "Rust Indonesia",
+			"link_tele": "https://t.me/rustindonesia"
+		}
+	],
+	"swift": [
+		{
+			"nama_group": "Swift Indonesia",
+			"link_tele": "https://t.me/swiftID"
+		}
+	],
+	"iot": [
+		{
+			"nama_group": "Arduino Indonesian Community",
+			"link_tele": "https://t.me/ArduinoIndonesianCommunity"
+		},
+		{
+			"nama_group": "Paspberry PI Indonesia",
+			"link_tele": "https://t.me/raspberrypi_id"
+		}
+	],
+	"devops": [
+		{
+			"nama_group": "Docker.ID",
+			"link_tele": "https://t.me/dockerid"
+		},
+		{
+			"nama_group": "IDDevOps",
+			"link_tele": "https://t.me/IDDevOps"
+		},
+		{
+			"nama_group": "ServerLess Tech",
+			"link_tele": "https://t.me/ServerlessTech"
+		}
+	],
+	"sqa": [
+		{
+			"nama_group": "Indonesian Software Quality Assurace",
+			"link_tele": "https://t.me/sqa_id"
+		}
+	],
+	"data_playground": [
+		{
+			"nama_group": "Big Data Indonesia",
+			"link_tele": "https://t.me/bigdataID"
+		},
+		{
+			"nama_group": "Big Data Official Group",
+			"link_tele": "https://t.me/idbigdata"
+		},
+		{
+			"nama_group": "Block Chain Indonesia",
+			"link_tele": "https://t.me/blockChain_ID"
+		},
+		{
+			"nama_group": "Machine Learning Indonesia",
+			"link_tele": "https://t.me/machinelearningid"
+		},
+		{
+			"nama_group": "ScrapeID",
+			"link_tele": "https://t.me/ScrapeID"
+		}
+	],
+	"development": [
+		{
+			"nama_group": "Belajar HTML",
+			"link_tele": "https://t.me/belajarhtmlcss"
+		}
+	],
+	"linux": [
+		{
+			"nama_group": "Arch Linux Indonesia",
+			"link_tele": "https://t.me/ArchLinuxID"
+		}
+	],
+	"security": [
+		{
+			"nama_group": "Pentester Indonesia",
+			"link_tele": "https://t.me/PentesterIndonesia"
+		},
+		{
+			"nama_group": "Reversing.ID",
+			"link_tele": "https://t.me/reversingid"
+		},
+		{
+			"nama_group": "ForensicaID",
+			"link_tele": "https://t.me/ForensicaID"
+		}
+	],
+	"windows": [
+		{
+			"nama_group": "Windows 10 Community ID",
+			"link_tele": "https://t.me/WinTenGroup"
+		},
+		{
+			"nama_group": "Windows Server Indonesia",
+			"link_tele": "https://t.me/WindServID"
+		}
+	],
+	"opensource": [
+		{
+			"nama_group": "DOSCOM - Dinus Open Source Community",
+			"link_tele": "https://t.me/doscomedia"
+		}
+	],
+	"loker": [
+		{
+			"nama_group": "Loker Developer - Programmer",
+			"link_tele": "https://t.me/LokerDeveloper"
+		}
+	]
+}
