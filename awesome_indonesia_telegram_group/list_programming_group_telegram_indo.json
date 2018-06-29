@@ -273,12 +273,112 @@
 		{
 			"nama_group": "Belajar HTML",
 			"link_tele": "https://t.me/belajarhtmlcss"
+		},
+		{
+			"nama_group": "Frontend Developer Indonesia",
+			"link_tele": "https://t.me/FrontEndID"
+		},
+		{
+			"nama_group": "Kongkow IT Medan",
+			"link_tele": "https://t.me/kongkowITMedan"
+		},
+		{
+			"nama_group": "Lombok Developer Meetup",
+			"link_tele": "https://t.me/lombokdevmeetup"
+		},
+		{
+			"nama_group": "Odoo - OpenERP Indonesia",
+			"link_tele": "https://t.me/odooindonesia"
+		},
+		{
+			"nama_group": "SinauDev - Sinau Development",
+			"link_tele": "https://t.me/sinaudev"
+		},
+		{
+			"nama_group": "Tech in Asia Dev Community",
+			"link_tele": "https://t.me/TIAdevcommunity"
+		},
+		{
+			"nama_group": "Vim Indonesia",
+			"link_tele": "https://t.me/VimID"
+		},
+		{
+			"nama_group": "Surabaya Dev",
+			"link_tele": "https://t.me/surabayadev"
+		},
+		{
+			"nama_group": "CirebonDev",
+			"link_tele": "https://t.me/crbdev"
+		},
+		{
+			"nama_group": "Female Geek",
+			"link_tele": "https://t.me/femalegeek"
 		}
 	],
 	"linux": [
 		{
 			"nama_group": "Arch Linux Indonesia",
 			"link_tele": "https://t.me/ArchLinuxID"
+		},
+		{
+			"nama_group": "Belajar GNU/Linux Indonesia",
+			"link_tele": "https://t.me/GNULinuxIndonesia"
+		},
+		{
+			"nama_group": "BlankOn Linux",
+			"link_tele": "https://t.me/BlankOnLinux"
+		},
+		{
+			"nama_group": "CentOS.ID",
+			"link_tele": "https://t.me/centosID"
+		},
+		{
+			"nama_group": "Deepin Linux Indonesia",
+			"link_tele": "https://t.me/deepin_indonesia"
+		},
+		{
+			"nama_group": "Elementary OS Indonesia",
+			"link_tele": "https://t.me/elementaryID"
+		},
+		{
+			"nama_group": "Fedora Indonesia",
+			"link_tele": "https://t.me/FedoraID"
+		},
+		{
+			"nama_group": "Grup Pengguna Gentoo Indonesia",
+			"link_tele": "https://t.me/GPG_Indonesia"
+		},
+		{
+			"nama_group": "Kali Linux Indonesia",
+			"link_tele": "https://t.me/KaliLinuxID"
+		},
+		{
+			"nama_group": "Linux Mint Indonesia",
+			"link_tele": "https://t.me/mint_id"
+		},
+		{
+			"nama_group": "Manjaro Indonesia",
+			"link_tele": "https://t.me/manjaroID"
+		},
+		{
+			"nama_group": "openSUSE Indonesia",
+			"link_tele": "https://t.me/openSUSE_ID"
+		},
+		{
+			"nama_group": "ParrotSec Indonesia",
+			"link_tele": "https://t.me/parrotsecurityindonesia"
+		},
+		{
+			"nama_group": "Slackware Indonesia",
+			"link_tele": "https://t.me/SlackwareID"
+		},
+		{
+			"nama_group": "Tea Linux Indonesia",
+			"link_tele": "https://t.me/joinchat/AAAAAEFFHm4-NdDP7aRREA"
+		},
+		{
+			"nama_group": "Ubuntu Indonesia",
+			"link_tele": "https://t.me/ubuntu_id"
 		}
 	],
 	"security": [
