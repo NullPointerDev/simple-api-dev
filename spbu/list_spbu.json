@@ -1,19 +1,27 @@
 [
     {
     "nama": "SPBU 11.2011.02",
-    "alamat": "Jl. Putri Merak Jingga No. 1 Medan, Sumatera Utara, Indonesia"
+    "alamat": "Jl. Putri Merak Jingga No. 1 Medan, Sumatera Utara, Indonesia",
+    "longitude": 3.5950661,
+    "latitude": 98.6771504
     },
     {
     "nama": "SPBU 11.2886.01",
-    "alamat": "Jl. Putri Tujuh Dumai, Riau, Indonesia"
+    "alamat": "Jl. Putri Tujuh Dumai, Riau, Indonesia",
+    "longitude": 1.6755736,
+    "latitude": 101.4618378
     },
     {
     "nama": "SPBU 14.2011.06",
-    "alamat": "Jl. Karya Jasa Medan, Sumatera Utara, Indonesia"
+    "alamat": "Jl. Karya Jasa Medan, Sumatera Utara, Indonesia",
+    "longitude": 3.541249,
+    "latitude": 98.6648419
     },
     {
     "nama": "SPBU 14.20111.08",
-    "alamat": "Jl. Sei Batang Hari No. 61 Medan, Sumatera Utara, Indonesia"
+    "alamat": "Jl. Sei Batang Hari No. 61 Medan, Sumatera Utara, Indonesia",
+    "longitude": 3.5843374,
+    "latitude": 98.6489469
     },
     {
     "nama": "SPBU 14.20111.21",
