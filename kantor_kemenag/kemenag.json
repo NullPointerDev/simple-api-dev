@@ -3,7 +3,7 @@
   "message": "Data Kanwil Kemenag se-Indonesia",
   "data": [
     {
-      "nama": "Kanwil Kemenag Provinsi Nanggroe Aceh Darussalam",
+      "kanwil": "Kanwil Kemenag Provinsi Nanggroe Aceh Darussalam",
       "alamat": "JI. Tgk. Abu Lam U. No. 09, Banda Aceh, 23242",
       "no_telpon": "(0651) 22442-22412-22510",
       "fax": "(0651) 22510",
@@ -11,7 +11,7 @@
       "website": "https://aceh.kemenag.go.id"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Sumatera Utara",
+      "kanwil": "Kanwil Kemenag Provinsi Sumatera Utara",
       "alamat": "JI. Jend. Gatot Subroto Km. 7 No. 261, Medan, 20127",
       "no_telpon": "(061) 8451033-8451724",
       "fax": "(061) 8468005",
@@ -19,7 +19,7 @@
       "website": "http://sumut.kemenag.go.id"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Sumatera Barat",
+      "kanwil": "Kanwil Kemenag Provinsi Sumatera Barat",
       "alamat": "JI. Kuini No.79. B, Padang, 25114",
       "no_telpon": "(0751) 28220-21686",
       "fax": "(0751) 22583",
@@ -27,7 +27,7 @@
       "website": "http://sumbar.kemenag.go.id"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Jambi",
+      "kanwil": "Kanwil Kemenag Provinsi Jambi",
       "alamat": "JI. Jenderal Ahmad Yani No.13, Telanaipura, Kota Jambi, 36361",
       "no_telpon": "(0741) 60849",
       "fax": "(0741) 60849",
@@ -35,7 +35,7 @@
       "website": "http://jambi.kemenag.go.id"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Riau",
+      "kanwil": "Kanwil Kemenag Provinsi Riau",
       "alamat": "JI. Jend. Sudirman No. 235, Pekanbaru, 28011",
       "no_telpon": "(0761) 861827",
       "fax": "(0761) 861827",
@@ -43,7 +43,7 @@
       "website": "http://riau.kemenag.go.id"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Kepulauan Riau",
+      "kanwil": "Kanwil Kemenag Provinsi Kepulauan Riau",
       "alamat": "Jl. Daeng Kamboja KM. 15 Tanjungpinang, 29111",
       "no_telpon": "(0771) 311574",
       "fax": "(0771) 314232",
@@ -51,7 +51,7 @@
       "website": "http://kepri.kemenag.go.id"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Sumatera Selatan",
+      "kanwil": "Kanwil Kemenag Provinsi Sumatera Selatan",
       "alamat": "Jl. Ade Irma Nasution No. 8, Palembang, (Jl. Kapten A. Rivai), 30129",
       "no_telpon": "(0711) 351667 - 351668",
       "fax": "(0711) 378607",
@@ -59,7 +59,7 @@
       "website": "https://sumsel.kemenag.go.id"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Bengkulu",
+      "kanwil": "Kanwil Kemenag Provinsi Bengkulu",
       "alamat": "Jl. Jend. Basuki Rahmat No.10, Bengkulu, 38221",
       "no_telpon": "(0736) 21097-344602-28123",
       "fax": "(0736) 21597",
@@ -67,7 +67,7 @@
       "website": "http://bengkulu.kemenag.go.id/"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Kepulauan Bangka Belitung",
+      "kanwil": "Kanwil Kemenag Provinsi Kepulauan Bangka Belitung",
       "alamat": "Komplek Perkantoran Gubernur Provinsi Kepulauan Bangka Belitung, Jl. Pulau Bangka No.1, Air Itam, Pangkalpinang, 33177",
       "no_telpon": "(0717) 439464-439465",
       "fax": "(0717) 439466",
@@ -75,7 +75,7 @@
       "website": "http://babel.kemenag.go.id/"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Lampung",
+      "kanwil": "Kanwil Kemenag Provinsi Lampung",
       "alamat": "JI. Cut Mutia No. 27, Teluk Betung, Bandar Lampung, 35214",
       "no_telpon": "(0721) 482980-481533",
       "fax": "(0721) 483067",
@@ -83,7 +83,7 @@
       "website": "https://lampung.kemenag.go.id/"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Banten",
+      "kanwil": "Kanwil Kemenag Provinsi Banten",
       "alamat": "JI. Raya Palima Blok Instansi Vertikal No. 1, Serang, 42171",
       "no_telpon": "(0254) 8480080",
       "fax": "(0254) 8480083",
@@ -91,7 +91,7 @@
       "website": "http://banten.kemenag.go.id"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi DKI Jakarta",
+      "kanwil": "Kanwil Kemenag Provinsi DKI Jakarta",
       "alamat": "JI. DI. Panjaitan No. 10, Jakarta Timur, 13340",
       "no_telpon": "(021) 8197479",
       "fax": "(021) 8195461",
@@ -99,7 +99,7 @@
       "website": "http://dki.kemenag.go.id/"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Jawa Barat",
+      "kanwil": "Kanwil Kemenag Provinsi Jawa Barat",
       "alamat": "JI. Jend. Sudirman No. 644, Bandung, 40183",
       "no_telpon": "(022) 6032008",
       "fax": "(022) 6037850",
@@ -107,7 +107,7 @@
       "website": "http://jabar.kemenag.go.id/"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Jawa Tengah",
+      "kanwil": "Kanwil Kemenag Provinsi Jawa Tengah",
       "alamat": "JI. Sisingamangaraja No. 5, Semarang, 50232",
       "no_telpon": "(024) 8412547- 8412552",
       "fax": "(024) 8315418",
@@ -115,7 +115,7 @@
       "website": "http://jateng.kemenag.go.id/"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi DI Yogyakarta",
+      "kanwil": "Kanwil Kemenag Provinsi DI Yogyakarta",
       "alamat": "JI. Sukonandi No. 8, Yogyakarta, 55166",
       "no_telpon": "(0274) 513492",
       "fax": "(0274) 513492",
@@ -123,7 +123,7 @@
       "website": "http://yogyakarta.kemenag.go.id/"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Jawa Timur",
+      "kanwil": "Kanwil Kemenag Provinsi Jawa Timur",
       "alamat": "JI. Raya Juanda No. 26, Surabaya, 61253",
       "no_telpon": "(031) 8686014",
       "fax": "(031) 8667011",
@@ -131,7 +131,7 @@
       "website": "http://jatim.kemenag.go.id/"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Bali",
+      "kanwil": "Kanwil Kemenag Provinsi Bali",
       "alamat": "JI. Letda Tantular Civic Centre, Yang Batu, Denpasar",
       "no_telpon": "(0361) 241921",
       "fax": "(0361) 241921 - 222716",
@@ -139,7 +139,7 @@
       "website": "http://bali.kemenag.go.id"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Nusa Tenggara Barat",
+      "kanwil": "Kanwil Kemenag Provinsi Nusa Tenggara Barat",
       "alamat": "JI. Udayana Nomor 6, Mataram, NTB",
       "no_telpon": "(0370) 633040 - 623375",
       "fax": "(0370) 622317",
@@ -147,7 +147,7 @@
       "website": "http://ntb.kemenag.go.id"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Nusa Tenggara Timur",
+      "kanwil": "Kanwil Kemenag Provinsi Nusa Tenggara Timur",
       "alamat": "JI. Frans Seda Walikota Kupang",
       "no_telpon": "(0380) 8553929",
       "fax": "-",
@@ -155,7 +155,7 @@
       "website": "http://ntb.kemenag.go.id"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Kalimantan Barat",
+      "kanwil": "Kanwil Kemenag Provinsi Kalimantan Barat",
       "alamat": "JI. Sutan Syahrir No.12 Pontianak, 78116",
       "no_telpon": "(0561) 732414",
       "fax": "(0561) 761746",
@@ -163,7 +163,7 @@
       "website": "http://kalbar.kemenag.go.id"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Kalimantan Tengah",
+      "kanwil": "Kanwil Kemenag Provinsi Kalimantan Tengah",
       "alamat": "JI. Brigjen Katamso No.3 Palangka Raya, 73112",
       "no_telpon": "(0536) 3221966-3221893",
       "fax": "(0536) 3221893",
@@ -171,7 +171,7 @@
       "website": "http://kalteng.kemenag.go.id"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Kalimantan Selatan",
+      "kanwil": "Kanwil Kemenag Provinsi Kalimantan Selatan",
       "alamat": "JI. D.I. Panjaitan No.19 Banjarmasin, 70114",
       "no_telpon": "(0511) 3353150-3353472",
       "fax": "(0511) 3356633",
@@ -179,7 +179,7 @@
       "website": "http://kalsel.kemenag.go.id"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Kalimantan Timur",
+      "kanwil": "Kanwil Kemenag Provinsi Kalimantan Timur",
       "alamat": "JI. Basuki Rahmat No.42 Samarinda, 75117",
       "no_telpon": "(0541) 742682",
       "fax": "(0541) 746472",
@@ -187,7 +187,7 @@
       "website": "http://kaltim.kemenag.go.id"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Kalimantan Timur",
+      "kanwil": "Kanwil Kemenag Provinsi Kalimantan Timur",
       "alamat": "JI. Basuki Rahmat No.42 Samarinda, 75117",
       "no_telpon": "(0541) 742682",
       "fax": "(0541) 746472",
@@ -195,7 +195,7 @@
       "website": "http://kaltim.kemenag.go.id"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Kalimantan Utara",
+      "kanwil": "Kanwil Kemenag Provinsi Kalimantan Utara",
       "alamat": "JI. Sengkawit No.3 RT 15/08, Tanjung Selor, Kabupaten Bulungan",
       "no_telpon": "(0552) 2023255 - 2023193",
       "fax": "-",
@@ -203,7 +203,7 @@
       "website": "http://kaltara.kemenag.go.id"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Gorontalo",
+      "kanwil": "Kanwil Kemenag Provinsi Gorontalo",
       "alamat": "JI. Poigar No. 123, Molosipat, Kota Utara",
       "no_telpon": "(0435) 831943 - 831942",
       "fax": "(0435) 831941",
@@ -211,7 +211,7 @@
       "website": "http://gorontalo.kemenag.go.id"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Sulawesi Utara",
+      "kanwil": "Kanwil Kemenag Provinsi Sulawesi Utara",
       "alamat": "JI. 17 Agustus, Manado, 1077",
       "no_telpon": "(0431) 864392",
       "fax": "(0431) 864392",
@@ -219,7 +219,7 @@
       "website": "http://sulut.kemenag.go.id"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Sulawesi Tengah",
+      "kanwil": "Kanwil Kemenag Provinsi Sulawesi Tengah",
       "alamat": "JI. Professor Mohammad Yamin No. 42 Palu Selatan Kota Palu, 94111",
       "no_telpon": "(0451) 488921",
       "fax": "(0451) 488920",
@@ -227,7 +227,7 @@
       "website": "http://sulteng.kemenag.go.id"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Sulawesi Tenggara",
+      "kanwil": "Kanwil Kemenag Provinsi Sulawesi Tenggara",
       "alamat": "JI. Jend. A. Yani No. 6, Kota Kendari, 93117",
       "no_telpon": "(0401) 322696",
       "fax": "(0401) 322696",
@@ -235,7 +235,7 @@
       "website": "http://sultra.kemenag.go.id"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Sulawesi Selatan",
+      "kanwil": "Kanwil Kemenag Provinsi Sulawesi Selatan",
       "alamat": "JI. Nuri No. 53 Makassar",
       "no_telpon": "(0411) 873459",
       "fax": "(0411) 872219",
@@ -243,7 +243,7 @@
       "website": "http://sulsel.kemenag.go.id"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Sulawesi Barat",
+      "kanwil": "Kanwil Kemenag Provinsi Sulawesi Barat",
       "alamat": "JI. H.A.M. Pettana Endeng No.46 Mamuju",
       "no_telpon": "(0426) 2703179",
       "fax": "(0426) 2703178",
@@ -251,7 +251,7 @@
       "website": "http://sulbar.kemenag.go.id"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Maluku",
+      "kanwil": "Kanwil Kemenag Provinsi Maluku",
       "alamat": "JI. Sultan Hasanudin Kapahaha, Ambon, 97128",
       "no_telpon": "(0911) 352159-352633",
       "fax": "(0911) 352159",
@@ -259,7 +259,7 @@
       "website": "http://maluku.kemenag.go.id"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Maluku Utara",
+      "kanwil": "Kanwil Kemenag Provinsi Maluku Utara",
       "alamat": "JI. Batu Angus Dufa-Dufa Duta, Temate",
       "no_telpon": "(0921) 328609",
       "fax": "(0921) 328608",
@@ -267,7 +267,7 @@
       "website": "http://malut.kemenag.go.id"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Papua Barat",
+      "kanwil": "Kanwil Kemenag Provinsi Papua Barat",
       "alamat": "JI. SKMA Arfai II Manokwari, 98315",
       "no_telpon": "(0411) 434849 - 434872 - 434735",
       "fax": "(0411) 434849",
@@ -275,7 +275,7 @@
       "website": "http://papuabarat.kemenag.go.id"
     },
     {
-      "nama": "Kanwil Kemenag Provinsi Papua Barat",
+      "kanwil": "Kanwil Kemenag Provinsi Papua Barat",
       "alamat": "JI. Raya Abepura Entrop PO Box.183, Jayapura, 77114",
       "no_telpon": "(0967) 537427 - 533346",
       "fax": "(0967) 537427",
