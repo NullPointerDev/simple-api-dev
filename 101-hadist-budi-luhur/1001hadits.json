@@ -37,10 +37,10 @@
     {
       "nomor": "5",
       "judul":"HIDUP SEDERAHANA",
-      "hadits": "",
+      "hadits": "Hadits belum tersedia",
       "arti": "Makanlah, Minumlah, Pakailah, dan Bersedekahlah, jangan berlebih-lebihan (boros) dan janganlah untuk bermegah megahan.",
       "perawi": "HR. Abu Daud – Ahmad",
-      "deskripsi" : ""
+      "deskripsi" : "Belum ada deskripsi"
     },
     {
       "nomor": "6",
@@ -75,269 +75,92 @@
       "deskripsi" : "Seorang anak wajib berusaha membuat orang tuanya ridha. Dalam hadits di atas, Rasulullah menyebutkan bahwa ridha Allah bergantung pada ridha orang tua. Sama halnya dengan mencari ridha Allah yang merupakan suatu kewajiban, demikian pula dengan mencari ridha orang tua;"
     },
     {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
+      "nomor": "10",
+      "judul":"DOSA-DOSA BESAR",
+      "hadits": " عَنْ ابْنِ مَسْعُودٍ رَّضِىَ ٱللَّهُ عَنْهُ  قَالَ: سَأَلْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ : أَيُّ الذَّنْبِ أَعْظَمُ؟ قَالَ: أَنْ تَجْعَلَ لِلهِ نِدًّا، وَهُوَ خَلَقَكَ. قُلْتُ: ثُمَّ أَيُّ؟ قَالَ: ثُمَّ أَنْ تَقْتُلَ وَلَدَكَ خَشْيَةَ أَنْ يَأْكُلَ مَعَكَ. قُلْتُ: ثُمَّ أَيُّ؟ قَالَ: ثُمَّ أَنْ تُزَانِيَ حَلِيلَةَ جَارِكَ. مُتَّفَقٌ عَلَيْهِ",
+      "arti": "Dari ‘Abdullah bin Mas’ûd Radhiyallahu anhu ia berkata, “Aku bertanya kepada Rasûlullâh Shallallahu ‘alaihi wa sallam , ‘Dosa apakah yang paling besar?’ Beliau Shallallahu ‘alaihi wa sallam  menjawab, “Engkau menyekutukan Allâh padahal Dia yang telah menciptakanmu.” Kemudian aku bertanya lagi, ‘Kemudian dosa apa lagi?’ Beliau Shallallahu ‘alaihi wa sallam  menjawab, “Engkau membunuh anakmu karena takut ia makan bersamamu.” Aku bertanya lagi, ‘Kemudian dosa apa lagi?’ Beliau Shallallahu ‘alaihi wa sallam  pun menjawab, “Engkau berzina dengan istri tetanggamu.”",
+      "perawi": "HR. Bukhary – Muslim",
+      "deskripsi" : "Hadits ini menjelaskan tentang dosa-dosa besar yang paling besar, di antaranya: Berbuat syirik kepada Allâh Azza wa Jalla , membunuh anak karena takut miskin, dan berzina dengan isteri tetangga."
     },
     {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
+      "nomor": "11",
+      "judul":"TANDA-TANDA ORANG MUNAFIK",
+      "hadits": "عَنْ أَبِى هُرَيْرَةَ عَنِ النَّبِىِّ صلى الله عليه وسلم – قَالَ آيَةُ الْمُنَافِقِ ثَلاَثٌ إِذَا حَدَّثَ كَذَبَ ، وَإِذَا وَعَدَ أَخْلَفَ ، وَإِذَا اؤْتُمِنَ خَانَ",
+      "arti": "Dari Abu Hurairah, bahwa Nabi SAW bersabda, Tanda-tanda orang munafik ada tiga: jika berbicara dia berdusta, jika berjanji dia mengingkari, dan jika diberi amanah dia berkhianat",
+      "perawi": "HR. Bukhary – Muslim",
+      "deskripsi" : "Hadits di atas merupakan hadist mengenai ciri-ciri orang munafik yang sudah sangat terkenal di masyarakat kita. Melalui hadits tersebut manusia senantiasa diperingatkan dan patutlah untuk berhati-hati agar tidak termasuk golongan orang-orang munafik.\n\nKata munafik berarti orang-orang yang nifak. Nifak secara bahasa maknanya adalah berbeda antara apa yang tampak (lahir) dan tidak tampak (batin). Apabila perbedaan itu menyangkut perkara iman maka orang tersebut tersebut termasuk nifaq i’tiqad. Contohnya orang yang berkata “Kami beriman” tetapi mengingkari di dalam hati. \n\nPada zaman Nabi Muhammad SAW, ketika berdakwah di Madinah terdapat orang-orang munafik seperti itu. Nama orang yang terkenal dengan sifat kemunafikannya tersebut adalah Abdullah bin Ubay bin Salul."
     },
     {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
+      "nomor": "12",
+      "judul":"MEMAKI IBU-BAPAK",
+      "hadits": "مِنَ الْكَبَائِرِ أَنْ يَشْتِمَ الرَّجُلُ وَالِدَيْهِ ، فَقَالُوا : كَيْفَ يَشْتِمُ ؟ ، قَالَ : يَشْتِمُ الرَّجُلَ ، فَيَشْتُمُ أَبَاهُ وَأُمَّهُ",
+      "arti": "Termasuk dosa besar, seseorang menghina kedua orang tuanya.” Para sahabat bertanya, “Bagaimana seseorang bisa menghina orang tuanya?” Rasulullah menjawab, “Dia menghina seseorang, kemudian orang tersebut menghina bapak dan ibunya.",
+      "perawi": "HR. Bukhary – Muslim",
+      "deskripsi" : "Dalam hadits di atas, para sahabat tidak bisa membayangkan bahwa ada anak yang sampai berani mencaci-maki orang tuanya sendiri. Bagaimana tidak, dulu orang Arab rela untuk berperang ketika kehormatan nenek moyang atau orang tua mereka diinjak-injak dan dilecehkan. Mereka rela mengangkat senjata ketika orang lain mencela dan mencaci-maki kehormatan bapak-bapaknya. Lalu bagaimana mungkin anaknya sendiri yang mencela dan mencaci-maki kedua orang tuanya? Sungguh ini perkara yang sangat sulit dibayangkan oleh para sahabat radhiyallahu ‘anhum ketika itu, namun mudah kita jumpai pada zaman sekarang ini."
     },
     {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
+      "nomor": "13",
+      "judul":"MENAHAN MARAH",
+      "hadits": "لَيْسَ الشَّدِيدُ بِالصُّرَعَةِ ، إِنَّمَا الشَّدِيدُ الَّذِى يَمْلِكُ نَفْسَهُ عِنْدَ الْغَضَبِ",
+      "arti": "Orang kuat itu, bukanlah orang yang kuat bergulat, tetapi sebenarnya orang kuat itu, ialah yang dapat menahan amarahnya.",
+      "perawi": "HR. Bukhary – Muslim",
+      "deskripsi" : "Siapapun kita, tentu pernah merasakan marah, bahkan mungkin tidak jarang kita merasakan kemarahan dan emosi yang sangat.\n\nMemang sifat marah merupakan tabiat yang tidak mungkin luput dari diri manusia, karena mereka memiliki nafsu yang cenderung ingin selalu dituruti dan enggan untuk diselisihi keinginannya.\n\nRasulullah shallallahu ‘alaihi wa sallam bersabda, “Aku ini hanya manusia biasa, aku bisa senang sebagaimana manusia senang, dan aku bisa marah sebagaimana manusia marah”[1].\n\nBersamaan dengan itu, sifat marah merupakan bara api yang dikobarkan oleh setan dalam hati manusia untuk merusak agama dan diri mereka, karena dengan kemarahan seseorang bisa menjadi gelap mata sehingga dia bisa melakukan tindakan atau mengucapkan perkataan yang berakibat buruk bagi diri dan agamanya[2].\n\nOleh karena itu, hamba-hamba Allah Ta’ala yang bertakwa, meskipun mereka tidak luput dari sifat marah, akan tetapi kerena mereka selalu berusaha melawan keinginan hawa nafsu, maka mereka pun selalu mampu meredam kemarahan mereka karena Allah Ta’ala."
     },
     {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
+      "nomor": "14",
+      "judul":"BERKATA BENAR DAN DUSTA",
+      "hadits": "عَنْ عَبْدِ اللهِ بنِ مَسْعُوْد رَضِيَ اللهُ عَنْهُ قَالَ : قَالَ رَسُوْلُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ : عَلَيْكُمْ بِالصِّدْقِ ، فَإِنَّ الصِّدْقَ يَهْدِيْ إِلَى الْبِرِّ ، وَإِنَّ الْبِرَّ يَهْدِيْ إِلَى الْجَنَّةِ ، وَمَا يَزَالُ الرَّجُلُ يَصْدُقُ وَيَتَحَرَّى الصِّدْقَ حَتَّى يُكْتَبَ عِنْدَ اللهِ صِدِّيْقًا ، وَإِيَّاكُمْ وَالْكَذِبَ ، فَإِنَّ الْكَذِبَ يَهْدِيْ إِلَى الْفُجُوْرِ ، وَإِنَّ الْفُجُوْرَ يَهْدِيْ إِلَى النَّارِ ، وَمَا يَزَالُ الرَّجُلُ يَكْذِبُ وَيَتَحَرَّى الْكَذِبَ حَتَّى يُكْتَبَ عِنْدَ اللهِ كَذَّابًا",
+      "arti": "Dari ‘Abdullâh bin Mas’ûd Radhiyallahu anhu, ia berkata: “Rasûlullâh Shallallahu ‘alaihi wa sallam bersabda, ‘Hendaklah kalian selalu berlaku jujur, karena kejujuran membawa kepada kebaikan, dan kebaikan mengantarkan seseorang ke Surga. Dan apabila seorang selalu berlaku jujur dan tetap memilih jujur, maka akan dicatat di sisi Allâh sebagai orang yang jujur. Dan jauhilah oleh kalian berbuat dusta, karena dusta membawa seseorang kepada kejahatan, dan kejahatan mengantarkan seseorang ke Neraka. Dan jika seseorang senantiasa berdusta dan memilih kedustaan maka akan dicatat di sisi Allâh sebagai pendusta (pembohong).’”",
+      "perawi": "HR. Bukhary – Muslim",
+      "deskripsi" : "Hendaklah kalian selalu berlaku jujur, karena kejujuran membawa kepada kebaikan, dan kebaikan mengantarkan seseorang ke Surga\n\nDalam hadits ini Nabi Shallallahu ‘alaihi wa sallam memerintahkan umatnya berlaku jujur dalam perkataan, perbuatan, ibadah dan dalam semua perkara. Jujur itu berarti selaras antara lahir dan batin, ucapan dan perbuatan, serta antara berita dan fakta.\n\nMaksudnya, hendaklah kalian terus berlaku jujur. Karena jika engkau senantiasa jujur, maka itu akan membawamu kepada al-birr (yakni melakukan segala kebaikan), dan kebaikan itu akan membawamu ke Surga yang merupakan puncak keinginan,"
     },
     {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
+      "nomor": "15",
+      "judul":"BERZINA-MINUMAN ARAK DAN MENCURI",
+      "hadits": "لَايَزْنِي الزَّانِي حِيْنَ يَزْنِى وَهُوَمُؤْ مِنٌ٬وَلاَ يَشْرَبُ الْخَمْرَحِيْنَ يَشْرَبُ وَهُوَ مُؤْمِنٌ٬وَلاَ يَسْرِقُ حِيْنَ يَسْرِقُ وَهُوَمُؤْمنٌ",
+      "arti": "Orang Mu’min, sekali-kali tidak akan berzina, tidak akan minum minuman keras dan tidak akan mencuri.",
+      "perawi": "HR. Bakr bin Abdirrahman",
+      "deskripsi" : "Belum ada deskripsi."
     },
     {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
+      "nomor": "16",
+      "judul":"RASA MALU",
+      "hadits": "إِنَّ مِمَّا أَدْرَكَ النَّاسُ مِنْ كَلَامِ النُّبُوَّةِ إِذَا لَمْ تَسْتَحْيِ فَافْعَلْ مَا شِئْتَ",
+      "arti": "Sesungguhnya diantara yang didapatkan manusia dari perkataan (yang disepakati) para Nabi adalah; “Jika kamu tidak malu, berbuatlah sesukamu",
+      "perawi": "HR. Bukhari",
+      "deskripsi" : "Maksudnya kata para ulama, orang kalau sudah hilang rasa malunya, dia tidak malu lagi berbuat maksiat. Wanita kalau sudah kehilangan rasa malunya, tidak malu dia mempertontonkan auratnya. Lelaki yang sudah kehilangan rasa malunya, dia tidak malu untuk berbuat atau berkata kotor.\n\nKata Ibnul Qayyim, Kata al-haya’ (rasa malu) berasal dari kata al-hayah (hidup), siapa yang tidak punya haya’, maka berarti dia mayat di dunia. Dan di akhirat dia akan sengsara. Karena ada hubungan yang sangat erat antara perbuatan dosa dan sedikitnya rasa malu.\n\nKetika seseorang sedang sendirian kemudian dia berani berbuat maksiat, berarti kurang rasa malunya kepada Allah."
     },
     {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
+      "nomor": "17",
+      "judul":"IMAN DAN MALU",
+      "hadits": " الْحَيَاءُ مِنَ الإِيمَا",
+      "arti": "Malu itu sebagian daripada iman.",
+      "perawi": "HR. Bukhary – Muslim",
+      "deskripsi" : "Diantara pelajaran hadits yang bisa kita ambil dari hadits di atas adalah sebagai berikut:\n\n1. Kaum muslimin hendaknya selalu memiliki semangat untuk menasehati saudaranya, mengingatkannya dengan penuh kasih sayang, dan tidak berdiam diri dari kesalahan;\n\n2. Salah satu sifat Rasulullah adalah meluruskan ketika ada kekeliruan yang beliau ketahui, dan membetulkan kesalahan yang beliau dapati. Sehingga ketika Rasulullah diam terhadap sesuatu yang diketahui beliau, maka itu berarti taqrir (persetujuan) dari beliau;\n\n3. Hendaklah seorang muslim memiliki rasa malu dan menjaga sifat itu tetap ada pada dirinya;\n\n4. Malu adalah sebagian dari iman."
     },
     {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
+      "nomor": "18",
+      "judul":"HORMAT-MENGHORMATI",
+      "hadits": "Hadits belum tersedia",
+      "arti": "Allah telah mewahyukan kepadaku supaya hendaklah kamu hormat-menghormati satu sama lain, agar jangan ada seseorang yang menganiaya yang lain, dan agar jangan ada seseorang yang sombong terhadap yang lain.",
+      "perawi": "HR. Muslim",
+      "deskripsi" : "Belum ada deskripsi"
     },
     {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
+      "nomor": "19",
+      "judul":"MEMAKI ORANG YANG SUDAH MATI",
+      "hadits": "لاَ تَسُبُّوا اْلأَمْوَاتَ, فَإِنَّّهُمْ قَدْ أَفْضَوْا إِلىَ مَا قَدَّمُوْا",
+      "arti": "Janganlah kamu mencaci-maki orang yang sudah mati, karena mereka itu telah selesai dengan apa yang mereka lakukan. ",
+      "perawi": "HR. Bukhary",
+      "deskripsi" : "Hadits diatas menunjukkan bahwa haram hukumnya mencaci maki atau mencela orang-orang yang sudah mati. Hadits tersebut bersifat umum sehingga mencakup kaum Muslimin dan orang-orang kafir juga. \n\nHikmah dari pelarangan tersebut adalah sebagaimana yang disebutkan pada bagian akhir hadits tersebut, yaitu karena mereka itu sudah sampai kepada apa yang telah mereka lakukan. \n\nMaksudnya adalah bahwa mereka telah mencapai perbuatan-perbuatan yang telah dilakukan baik berupa perbuatan yang shalih atau sebaliknya."
     },
     {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
-    },
-    {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
-    },
-    {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
-    },
-    {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
-    },
-    {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
-    },
-    {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
-    },
-    {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
-    },
-    {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
-    },
-    {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
-    },
-    {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
-    },
-    {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
-    },
-    {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
-    },
-    {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
-    },
-    {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
-    },
-    {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
-    },
-    {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
-    },
-    {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
-    },
-    {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
-    },
-    {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
-    },
-    {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
-    },
-    {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
-    },
-    {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
-    },
-    {
-      "nomor": "2",
-      "judul":"",
-      "hadits": "",
-      "arti": "",
-      "perawi": "",
-      "deskripsi" : ""
+      "nomor": "20",
+      "judul":"TAQWA – AMAL KEBAJIKAN DAN KELAKUAN BAIK",
+      "hadits": " اِتَّقِ اللهَ حَيْثُمَا كُنْتَ، وَأَتْبِعِ السَّيِّئَةَ الْحَسَنَةَ تَمْحُهَا، وَخَالِقِ النَّاسَ بِخُلُقٍ حَسَنٍ",
+      "arti": "Hendaklah kamu takut kepada Allah dimana saja kamu berada, dan susullah (tutuplah) pekerjaan yang jahat dengan pekerjaan yang baik, pasti akan menghapusnya dan bergaullah dengan sesame manusia dengan kelakuan yang baik.",
+      "perawi": "HR. Ahmad",
+      "deskripsi" : "Kandungan Hadist:\n1. Takwa kepada Allah merupakan kewajiban setiap muslim dan dia merupakan asas diterimanya amal shaleh. \n2. Bersegera melakukan ketaatan setelah keburukan secara langsung, karena kebaikan akan menghapus keburukan. \n3. Bersungguh-sungguh menghias diri dengan akhlak mulia.\n4. Menjaga pergaulan yang baik merupakan kunci kesuksesan, kebahagiaan dan ketenangan di dunia dan akhirat. Hal tersebut dapat menghilangkan dampak negatif pergaulan. "
     }
-    
   ]
 }
