@@ -1,6 +1,7 @@
 {
   "status": "Success",
   "message": "100 Hadits Budi Luhur",
+  "source": "https://rumaysho.com -> https://almanhaj.or.id -> https://bersamadakwah.net -> ",
   "data": [
     {
       "nomor": "1",
@@ -37,7 +38,7 @@
     {
       "nomor": "5",
       "judul":"HIDUP SEDERAHANA",
-      "hadits": "Hadits belum tersedia",
+      "hadits": "Hadits belum tersedia, nanti kita update lagi yaaa.",
       "arti": "Makanlah, Minumlah, Pakailah, dan Bersedekahlah, jangan berlebih-lebihan (boros) dan janganlah untuk bermegah megahan.",
       "perawi": "HR. Abu Daud – Ahmad",
       "deskripsi" : "Belum ada deskripsi"
@@ -189,7 +190,7 @@
     {
       "nomor": "24",
       "judul": "MENGAMBIL BARANG ORANG LAIN",
-      "hadits": "Hadits belum tersedia",
+      "hadits": "Hadits belum tersedia, nanti kita update lagi yaaa.",
       "arti": "Janganlah kamu mengambil barang kepunyaan orang lain, baik bergurau (pura- pura) maupun dengan sengaja. ",
       "perawi": "HR. Tirmidzi",
       "deskripsi": "Belum ada deskripsi."
@@ -341,7 +342,7 @@
     {
       "nomor": "43",
       "judul": "BUKAN SEMUA YANG DI DENGAR DI BICARAKAN",
-      "hadits": "Hadits belum tersedia",
+      "hadits": "Hadits belum tersedia, nanti kita update lagi yaaa.",
       "arti": "Amat besar dosanya seseorang, jika semua apa yang di dengar di bicarakannya. ",
       "perawi": "HR. Muslim",
       "deskripsi": "Belum ada deskripsi."
@@ -453,7 +454,7 @@
     {
       "nomor": "57",
       "judul": "DIAM ADALAH SATU KEBIJAKSANAAN",
-      "hadits": "Hadits belum tersedia",
+      "hadits": "Hadits belum tersedia, nanti kita update lagi yaaa.",
       "arti": "Diam itu adalah satu kebijaksanaan, tapi sedikit benar orang yang berbuat demikian.",
       "perawi": "HR. Baihaqi",
       "deskripsi": "Belum ada deskripsi."
@@ -461,7 +462,7 @@
     {
       "nomor": "58",
       "judul": "BAGAIMANA MEMPEROLEH PENGARUH",
-      "hadits": "Hadits belum tersedia",
+      "hadits": "Hadits belum tersedia, nanti kita update lagi yaaa.",
       "arti": "Kamu tidak akan bisa menguasai/mempengaruhi orang banyak dengan harta kekayaan, tetapi bisa kamu mempengaruhi mereka itu dengan bermuka manis dan budi bahasa yang baik.",
       "perawi": "HR. Abu ya’la",
       "deskripsi": "Belum ada deskripsi."
@@ -481,6 +482,166 @@
       "arti": "Jika salah seorang di antara kalian sudah meminta izin tiga kali dan tidak diizinkan maka pulanglah.",
       "perawi": "HR. Bukhari – Muslim",
       "deskripsi": "Batasan meminta izin untuk bertemu ke rumah orang lain adalah sebanyak tiga kali saja.\n\nHendaknya tidak berdiri tepat menghadap di depan pintu ketika meminta izin, hal ini karena ada seseorang yang meminta izin kepada Nabi Shallallahu ‘alaihi wa sallam kemudian berdiri di depan pintu. Apabila hendak masuk suatu rumah, maka katakanlah, “Assalamu’alaikum, bolehkah aku masuk.” Hal ini karena seseorang dari Bani ‘Amir meminta izin untuk masuk ke rumah Nabi Shallallahu ‘alaihi wa sallam di saat beliau berada di rumahnya, ia berkata: “Bolehkah saya masuk?”"
+    },
+    {
+      "nomor": "61",
+      "judul": "HASAD DAN DENGKI",
+      "hadits": "إِيَّاكُمْ وَالْحَسَدَ فَإِنَّ الْحَسَدَ يَأْكُلُ الْحَسَنَاتِ كَمَا تَأْكُلُ النَّارُ الْحَطَبَ",
+      "arti": "Jauhilah sifat hasad/dengki, karena sesungguhnya hasad itu memakan ( merusak ) amal kebajikan, seperti api memakan kayu.",
+      "perawi": "HR. Abu daud",
+      "deskripsi": "Hasad (iri,dengki) adalah kebencian melihat nikmat yang ada pada orang lain, dan ingin kenikmatan itu lenyap lalu berpindah kepadanya. Ini adalah bentuk penyakit hati yang termasuk kelompok dosa besar (al-Kabair). Orang pendengki adalah orang yang sengsara. Dia benci melihat orang lain mendapat kesenangan, tersiksa mendengar kawannya sukses, dan menangis, kesal dan jengkel mengetahui kompetitornya unggul, kena penyakit SMS (Senang melihat orang Susah, susah melihat orang senang)\n\nHasad adalah virus mematikan dan tiada obatnya kecuali harus menjauhinya. Rasulullah bersabda “Jauhilah kalian akan hasad, karena sesungguhnya hasad itu bisa memakan kebaikan. Sebagaimana api melahap kayu bakar” (dalam redaksi yang lain ‘sebagaimana api membakar rumput segar’).(Riwayat abu Dawud)\n\nHadits di atas menunjukkan bahaya hasad yang bisa menggunduli amal serta wajibnya menjauhi iri. Dalam hal ini, lafadz hadits di atas menggunakan majaz Isti’aroh yang seolah-olah menghidupkan api yang mati menjadi bergejolak,. Demikianlah, hasad itu merusak, ia akan melibas habis kebaikan yang pernah dilakukan seorang hamba."
+    },
+    {
+      "nomor": "62",
+      "judul": "SYIRIK KECIL",
+      "hadits": "Hadits belum tersedia, nanti kita update lagi yaaa.",
+      "arti": "Sesungguhnya yang paling saya takuti atasmu ialah syirik kecil, yaitu riya’ ( beribadah bukan karena allah semata, tapi untuk di lihat orang ).",
+      "perawi": "HR. Ahmad",
+      "deskripsi": "Karena kebodohan kita, seringkali kita meremehkan perbuatan dosa tertentu padahal perbuatan tersebut sangat besar nilainya (dosanya) di sisi Allah Ta’ala. Di antara bentuk dosa yang seringkali luput dari perhatian kita adalah syirik ashghar. Beberapa bentuk syirik ashghar sangat berkaitan dengan amalan hati, sehingga mungkin tidak tampak secara nyata dalam bentuk amal lahiriyah yang bisa dilihat. Bisa jadi seseorang tanpa sadar terjatuh ke dalam syirik ashghar karena tidak memperhatikan ke manakah hatinya condong, kepada Allah atau kepada selain Allah? Kesyirikan adalah perbuatan dosa yang sangat samar dan tersembunyi. Bisa jadi kita telah terjerumus ke dalam perbuatan syirik tanpa kita sadari karena kebodohan kita sendiri.\n\nSalah satu syirik asghar ini adalah Riya, yaitu melakukan suatu amalan agar orang lain bisa melihatnya kemudian memuji dirinya."
+    },
+    {
+      "nomor": "63",
+      "judul": "ZHALIM DAN KIKIR",
+      "hadits": "اِتَّقُوا اَلظُّلْمَ فَإِنَّ اَلظُّلْمَ ظُلُمَاتٌ يَوْمَ اَلْقِيَامَةِ وَاتَّقُوا اَلشُّحَّ  فَإِنَّهُ أَهْلَكَ مَنْ كَانَ قَبْلَكُمْ",
+      "arti": "Jauhilah kezhaliman, karena kezhaliman itu akan mengakibatkan kegelapan di hari qiamat, dan jauhilah kikir ( bakhil ) karena kikir itu suatu sifat yang telah membinasakan ummat-ummat yang dahulu sebelum kamu.",
+      "perawi": "HR. Muslim",
+      "deskripsi": "Ketidak adilan atau zhalim adalah perbuatan yang sangat merugikan bagi orang lain, Kezhaliman juga merupakan suatu pengingkaran yang besar terhadap peraturan Allah yang telah ditetapkan, secara istilah zhalim berarti menempatkan sesuatu tidak pada tempatnya, banyak sekali bentuk kezhaliman yang setiap hari kita temui atau mungkin kita lakukan. \n\nHadits tersebut memberikan peringatan terhadap perbuatan kikir dan bakhil karena merupakan sebab binasanya umat-umat terdahulu. Ketamakan terhadap harta menggiring mereka bertindak sewenang-wenang terhadap harta orang lain sehingga terjadilah banyak peperangan dan fitnah yang berakibat kebinasaan mereka dan penghalalan terhadap isteri-isteri mereka. Kebinasaan seperti ini baru mereka alami di dunia . Belum lagi di akhirat dimana tindakan sewenang-wenang terhadap harta orang lain, terhadap isteri-isterinya dan menumpahkan darahnya merupakan kezhaliman yang paling besar dan dosa yang teramat besar. Perbuatan-perbuatan maksiat inilah yang merupakan sebab kebinasaan di akhirat dan mendapat azab neraka."
+    },
+    {
+      "nomor": "64",
+      "judul": "KATAKANLAH YANG HAQ",
+      "hadits": "قُلِ الْحَقَّ وَإِنْ كَانَ مُرًّا",
+      "arti": "Katakanlah yang sebenarnya (haq) walau pahit sekalipun.",
+      "perawi": "HR. Ibnu Hibban",
+      "deskripsi": "Berkatalah yang benar walau itu pahit. Kebenaran tetap diterapkan walau ada celaan dan ada yang tidak suka. Inilah prinsip yang diajarkan dalam Islam oleh Nabi kita shallallahu ‘alaihi wa sallam. Nasehat ini beliau sampaikan pada sahabat mulia Abu Dzarr. Dalam tulisan kali ini akan diajarkan tiga contoh penerapan bagaimana kita mesti menerapkan kebenaran meski banyak yang berkomentar."
+    },
+    {
+      "nomor": "65",
+      "judul": "LEBIH BAIK MENJUAL KAYU DARIPADA MEMINTA-MINTA",
+      "hadits": "أَنْ يَأْخُذَ أَحَدُكُمْ أَحْبُلًا فَيَأْخُذَ حُزْمَةً مِنْ حَطَبٍ فَيَبِيعَ فَيَكُفَّ اللَّهُ بِهِ وَجْهَهُ خَيْرٌ مِنْ أَنْ يَسْأَلَ النَّاسَ أُعْطِيَ أَمْ مُنِعَ",
+      "arti": "Seandainya seseorang kamu pergi membawa tali, lalu pulang membawa seberkas kayu, dan kayu itu di jualnya, dengan jalan begitu ia telah menjaga kehormatannya, itu lebih baik dari pada meminta-minta di beri orang atau tidak.",
+      "perawi": "HR. Bukhari",
+      "deskripsi": "Makna hadits tersebut adalah bahwasanya Rasulullah SAW menganjurkan untuk kerja dan berusaha serta makan dari hasil keringatnya sendiri, bekerja dan berusaha dalam Islam adalah wajib, maka setiap muslim dituntut bekerja dan berusaha dalam memakmurkan hidup ini. Selain itu jika mengandung anjuran untuk memelihara kehormatan diri dan menghindarkan diri dari perbuatan meminta-minta karena Islam sebagai agama yang mulia telah memerintahkan untuk tidak melakukan pekerjaan yang hina.\n\nDalam menari rizki harus mengenal ketekunan dan keuletan. Rasulullah memerintah mereka bekerja dengan kemampuan kerja dan memberinya dorongan agar tidak merasa lemah dan mengharapkan belas kasihan orang lain. Dalam al-Qur’an menyatakan bahwa pertolongan Allah hanya datang kepada mereka yang berusaha dengan komitmen dan kesungguhan."
+    },
+    {
+      "nomor": "66",
+      "judul": "BAYARLAH SEGERA UPAH BURUH",
+      "hadits": "أَعْطُوا الأَجِيرَ أَجْرَهُ قَبْلَ أَنْ يَجِفَّ عَرَقُهُ",
+      "arti": "Berikanlah upah buruh sebelum kering keringatnya.",
+      "perawi": "HR. Ibnu Majah",
+      "deskripsi": "Penulis kitab “Faidhul Qodir” berkata: “diharamkan menunda pemberian gaji padahal dia mampu menunaikannya tepat pada waktunya. Yang dimaksud memberikan gaji sebelum keringat pekerja kering adalah ungkapan untuk menunjukkan diperintahkannya memberikan gaji setelah pekerjaan itu selesai ketika pekerja meminta walau keringatnya belum kering atau keringatnya telah kering.” (Faidhul Qodir: 1/718).\n\nOleh karena itu bagi para majikan hendaklah untuk bersegera membayarkan hak (gaji/bayaran) para pekerjanya sesegera mungkin, supaya tidak menzalimi mereka."
+    },
+    {
+      "nomor": "67",
+      "judul": "ORANG YANG PALING MENYESAL DI HARI QIAMAT",
+      "hadits": "Hadits belum tersedia, nanti kita update lagi yaaa.",
+      "arti": "Orang yang paling menyesal di hari qiamat ialah orang yang ada kesempatan mencari ilmu di dunia, tapi tidak mau mencari ilmu, dan orang yang mengajar orang, tapi orang yang di ajar itu mendapat faidah dari ilmunnya, sedang dia tidak.",
+      "perawi": "HR. Abu Asakir",
+      "deskripsi": "Dalam hadits lain disabdakan oleh Rasulullah yang artinya : Barangsiapa menghendaki kebahagiaan dunia harus dengan ilmu pengetahuan, dan barangsiapa menghendaki kebahagiaan akhirat harus dengan ilmu pengetahuan, sedangkan yang menginginkan kebahagiaan dunia dan akhirat juga harus dengan ilmu pengetahuan.\n\nDengan dilengkapinya manusia oleh Allah Swt alat-alat pencaindera tak lain agar dapat dipergunakan sebaik-baiknya, termasuk untuk menuntut ilmv di dunia. Tetapi apabila kesempatan yang disia-siakan, maka merugilah ia. Lebih rugi lagi kelak di akhirat, sebab apa yang diamalkan di dunia, termasuk ibadah umpamanya dilakukan dengan ngawur tanpa ilmv yang benar, ternyata amal ibadahnya sia-sia, ditolak oleh Allah benar-benar rugi baginya.\n\nOrang yang mengajarkan ilmu sedangkan orang lain dapat mengambil ibarat lilin yang dapat menerangi sekitarnya tetapi dirinya hangus terbakar. Inilah orang-orang yang paling merugi di hari QIAMAT nanti."
+    },
+    {
+      "nomor": "68",
+      "judul": "MENCARI NAFKAH",
+      "hadits": "Hadits belum tersedia, nanti kita update lagi yaaa.",
+      "arti": "Apabila kamu selesai shalat subuh, maka janganlah tidur ( dan enggan ) mencari rizkimu. ",
+      "perawi": "HR. Thabrani",
+      "deskripsi": "Janganlah kamu tidur, begitu sabda Rasulullah Saw. untuk kita, seusai shalat subuh. Lalu, apa yang kita lakukan seusai shalat subuh? Banyak hal yang dapat kita lakukan. Setelah shalat subuh berjamaah di masjid, kita bisa duduk di ruang tamu untuk membaca Al-Qur’an. Setelah itu, membuka seluruh jendela dan membersihkan rumah. Atau, memulai segala aktivitas yang perlu untuk kita lakukan di pagi hari."
+    },
+    {
+      "nomor": "69",
+      "judul": "KEWAJIBAN MEMBERI NAFKAH KELUARGA",
+      "hadits": "كفى بالمرء إثما أن يضيع من يقوت",
+      "arti": "Amat besar dosa seseorang, Bila ia menyia-nyiakan nafkah orang-orang yang menjadi tanggung jawabnya.",
+      "perawi": "HR. An-Nasai",
+      "deskripsi": "[edited] Khusus bagi seorang muslimah yang hendak memilih calon pendamping, ada satu kriteria yang penting untuk diperhatikan. Yaitu calon suami memiliki kemampuan untuk memberi nafkah. Karena memberi nafkah merupakan kewajiban seorang suami. Islam telah menjadikan sikap menyia-nyiakan hak istri, anak-anak serta kedua orang tua dalam nafkah termasuk dalam kategori dosa besar."
+    },
+    {
+      "nomor": "70",
+      "judul": "ANTARA PEMBERI DAN PEMINTA",
+      "hadits": "اَلْيَدُ الْعُلْيَا خَيْرٌ مِنَ الْيَدِ السُّفْلَى",
+      "arti": "Tangan yang di atas ( pemberi ) lebih mulia dari pada tangan yang di bawah ( penerima/peminta ).",
+      "perawi": "HR. Ad-Daruquthni",
+      "deskripsi": "Makna Pertama, artinya orang yang menerima, jadi maksudnya adalah orang yang memberi lebih baik daripada orang yang menerima. Namun ini bukan berarti bahwa orang yang diberi tidak boleh menerima pemberian orang lain. Bila seseorang memberikan hadiah kepadanya, maka dia boleh menerimanya, seperti yang terjadi pada Shahabat yang mulia ‘Umar bin Khaththab Radhiyallahu anhu ketika beliau Radhiyallahu anhu menolak pemberian dari Rasûlullâh Shallallahu ‘alaihi wa sallam.\n\nMakna yang kedua ini terlarang dalam syari’at bila seseorang tidak sangat membutuhkan, karena meminta-minta dalam syari’at Islam tidak boleh, kecuali sangat terpaksa. Ada beberapa hadits Nabi Shallallahu ‘alaihi wa sallam yang melarang untuk meminta-minta."
+    },
+    {
+      "nomor": "71",
+      "judul": "JALAN MENUJU ILMU ( JALAN KE SURGA )",
+      "hadits": "وَمَنْ سَلَكَ طَرِيقًا يَلْتَمِسُ فِيهِ عِلْمًا سَهَّلَ اللَّهُ لَهُ بِهِ طَرِيقًا إِلَى الْجَنَّةِ",
+      "arti": "Siapa yang menempuh jalan untuk mencari ilmu, maka Allah akan mudahkan baginya jalan menuju surga.",
+      "perawi": "HR. Muslim",
+      "deskripsi": "Makna Allah akan mudahkan baginya jalan menuju surga, ada empat makna sebagaimana disebutkan oleh Ibnu Rajab Al-Hambali:\n\nPertama: Dengan menempuh jalan mencari ilmu, Allah akan memudahkannya masuk surga.\n\nKedua: Menuntut ilmu adalah sebab seseorang mendapatkan hidayah. Hidayah inilah yang mengantarkan seseorang pada surga.\n\nKetiga: Menuntut suatu ilmu akan mengantarkan pada ilmu lainnya yang dengan ilmu tersebut akan mengantarkan pada surga.\n\nKeempat: Dengan ilmu, Allah akan memudahkan jalan yang nyata menuju surga yaitu saat melewati shirath (sesuatu yang terbentang di atas neraka menuju surga."
+    },
+    {
+      "nomor": "72",
+      "judul": "MEMINANG PINANGAN ORANG LAIN",
+      "hadits": "لاَ يَخْطُبَ الرَّجُلُ عَلَى خِطْبَةِ أَخِيهِ ، حَتَّى يَتْرُكَ الْخَاطِبُ قَبْلَهُ ، أَوْ يَأْذَنَ لَهُ الْخَاطِبُ",
+      "arti": "Janganlah seorang laki-laki melamar di atas lamaran saudaranya, hingga pelamar sebelumnya itu meninggalkan lamarannya atau ia mengizinkannya",
+      "perawi": "HR. Bukhari",
+      "deskripsi": "Bagaimana jika melamar wanita yang sudah dilamar orang lain itu berbuah pernikahan padahal lamaran sebelumnya belum dicabut atau belum batal, apakah pernikahan seperti itu sah?\n\nImam yang empat berbeda pendapat tentang sah atau tidaknya pernikahan pelamar kedua.\n\nImam Malik berpendapat bahwa pernikahannya batal. Demikian pula pendapat Imam Ahmad dalam satu riwayat. Alasannya, jika lamaran atau khitbah haram, maka akadnya lebih haram lagi.\n\nSedangkan menurut Imam Syafi’i dan Imam Abu Hanifah, nikahnya sah. Demikian pula pendapat Imam Ahmad dalam satu riwayat yang lain. Menurut mereka, yang diharamkan adalah sesuatu yang mendahului akad yakni lamaran atau khitbah.\n\nIbnu Taimiyah menegaskan tentang haramnya melamar wanita yang sudah dilamar ini dalam fatwanya. “Tidak ada perselisihan di antara para imam mazhab bahwa orang yang melamar di atas lamaran saudaranya telah bermaksiat kepada Allah dan Rasul-Nya. Jika ia terus menerus berada dalam kemaksiatan padahal ia tahu, maka hal itu menodai agama dan sikap wala’-nya terhadap kaum muslimin.”\n\nSyaikh Wahbah Az Zuhaili juga menegaskan adanya ijma’ ulama dalam masalah melamar wanita yang sudah dilamar.\n\n“Ulama’ telah berijma’ akan haramnya khitbah orang kedua setelah terjadinya khitbah orang pertama, jika khitbah pertama memang telah dengan jelas diterima serta orang pertama tidak memberi izin dan tidak membatalkan khitbahnya,” tulis beliau dalam Fiqih Islam wa Adillatuhu. “Jika dalam keadaan ini orang kedua tetap mengkhitbah dan menikahi wanita tersebut, maka menurut ijma’ ulama’, dia telah bermaksiat.”\n\nBagaimana jika lamaran pertama masih dalam proses dimusyawarahkan dan belum jelas apakah diterima oleh wali perempuan atau ditolak, bolehkah melamar wanita tersebut? Syaikh Wahbah Az Zuhaili menjelaskan, pendapat yang paling benar adalah tidak diharamkan untuk melakukan khitbah dalam kondisi demikian. Namun menurut mazhab Hanafi, makruh hukumnya khitbah kedua karena keumuman hadits-hadits di atas.\n\nSedangkan jumhur ulama memperbolehkan dengan alasan karena Fatimah binti Qais pernah dikhitbah oleh tiga orang yakni Muawiyah, Abu Jahm bin Hudzafah dan Usamah bin Zaid. Hal itu terjadi ketika Fatimah binti Qais dicerai oleh Abu Amr bin Hafsh bin Mughirah dan masa iddahnya telah selesai.\n\nFatimah binti Qais lantas menghadap Rasulullah untuk minta solusi. Beliau pun memberikan solusi, “Abu Jahm tidak pernah meletakkan tongkatnya dari bahunya, Muawiyah adalah orang miskin yang tidak punya uang. Menikahlah engkau dengan Usamah bin Zaid.”\n\n“Ini menunjukkan bolehnya melamar wanita yang sudah dilamar orang lain dengan catatan wanita itu belum menerima lamaran tersebut dan pelamar kedua belum mengetahui adanya lamaran dari orang pertama,” lanjut Syaikh Wahbah. Wallahu a’lam bish shawab. [Muchlisin BK/BersamaDakwah]"
+    },
+    {
+      "nomor": "73",
+      "judul": "MENGIKUTI JEJAK NABI SAW",
+      "hadits": "Hadits belum tersedia, nanti kita update lagi yaaa.",
+      "arti": "Tidak beriman seseorang kamu, sehingga ia merasa cenderung (setuju) kepada apa yang telah aku sampaikan.",
+      "perawi": "HR. Tirmidzi",
+      "deskripsi": "Belum ada deskripsi."
+    },
+    {
+      "nomor": "74",
+      "judul": "TUKANG MEMUJI-MUJI",
+      "hadits": "أَحْثُوا فِي أَفْوَاحِ الْمَدَّاحِيْنَ التُّرَابَ-البيهقي",
+      "arti": "Taburkanlah pasir di mulut orang yang suka memuji-muji orang.",
+      "perawi": "HR. Ibnu Hibban",
+      "deskripsi": "Ungkapan “lemparkan pasir adalah kiasan dari penolakan dan sanggahan atas pujian, dan itu berlaku kepada orang-orang yang biasa memberikan pujian sampai ia menjadikan kebiasaan itu sebagai bekal mencari penghidupan, sehingga tidak boleh memberikan apapun untuk mereka, karena pujian yang mereka berikan.\n\nNamun ada juga yang ulama yang memaknai hadits ini secara dzahirnya, yakni melemparkan tanah kepada orang yang suka memuji, dengan mengambil segenggam tanah kemudian melemparkannya kepada mereka sambil mengatakan,”Kelak harga makhluk sama dengan ini, siapa aku dan apa kemampuanku”.Hal itu dilakukan agar pihak yang mamuji dan yang dipuji sama-sama menyadari mertabatnya.\n\nImam An Nawawi menyabutkan bahwa pujian ada dua, pujian di saat yang dipuji tidak ada dan pujian di hadapan orang yang dipuji. Untuk yang pertama dibolehkan selama tidak ada unsur kebohongan. Jika ada unsur itu maka hal itu dilarang, namun bukan pujiannya melainkan kebohonganya. Adapun jika pujian dilakukan di depan yang bersangkutan maka ada nash yang membolehkan ada nash yang melarang seperti nash di atas. Dan untuk mengkompromikan keduanya, maka dilihat kondisi pihak yang dipuji. Jika yang dipuji imannya sempurna hingga pujian itu tidak menggelincirkannya maka hal itu boleh dilakukan, bahkan hukumnya mustahab jika ada maslahat. Namun jika ditakutkan pihak yang dipuji bakal terlena, maka makruh memberikan pujian. (lihat, Faidh Al Qadir, 1/236,237"
+    },
+    {
+      "nomor": "75",
+      "judul": "MINTA IZIN PULANG",
+      "hadits": "Hadits belum tersedia, nanti kita update lagi yaaa.",
+      "arti": "Apabila seseorang kamu berziarah kepada salah seseorang saudaranya, lalu duduk-duduk di rumahnya, maka janganlah ia meninggalkan tempat itu kecuali sesudah minta izin pulang.",
+      "perawi": "Muttafaqun 'Alaih",
+      "deskripsi": "Belum ada deskripsi."
+    },
+    {
+      "nomor": "76",
+      "judul": "KALAU BERSIN",
+      "hadits": "أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ إِذَا عَطَسَ غَطَّى وَجْهَهُ بِيَدِهِ أَوْ بِثَوْبِهِ وَغَضَّ بِهَا صَوْتَهُ",
+      "arti": "Apabila Nabi shallallahu ‘alaihi wa sallam bersin, beliau menutup wajahnya dengan tangan atau kainnya sambil merendahkan suaranya.",
+      "perawi": "HR. Abu Daud no. 5029, At-Tirmizi no. 2745",
+      "deskripsi": "BERSIN adalah lawan dari menguap yaitu keluarnya udara dengan keras, kuat disertai hentakan melalui dua lubang: hidung dan mulut. Maka akan terkuras dari badan bersamaan dengan bersin ini sejumlah hal seperti debu, haba’ (sesuatu yang sangat kecil, di udara, yang hanya terlihat ketika ada sinar matahari), atau kutu, atau mikroba yang terkadang masuk ke dalam organ pernafasan. Oleh karena itu, secara tabiat, bersin datang dari Yang Maha Rahman (Pengasih), sebab padanya terdapat manfaat yang besar bagi tubuh. Dan menguap datang dari syaithan sebab ia mendatangkan bahaya bagi tubuh. Dan atas setiap orang hendaklah memuji Allah Yang Maha Suci Lagi Maha Tinggi ketika dia bersin, dan agar meminta perlindungan kepada Allah dari syaitan yang terkutuk ketika sedang menguap.\n\nETIKA BERSIN\n1. Merendahkan suara.\n2. Menutup mulut dan wajah.\n3. Tidak memalingkan leher.\n4. Mengeraskan bacaan hamdalah, 5.walaupun dalam keadaan shalat."
+    },
+    {
+      "nomor": "77",
+      "judul": "JIHAD YANG PALING UTAMA",
+      "hadits": "أَفْضَلُ الْجِهَادِ أَنْ يُجَاهَدَ الرَّجُلُ نَفْسَهَ وَ هَوَاهُ",
+      "arti": "Jihad yang terutama ialah jihadnya seseorang terhadap dirinya sendiri dan hawa nafsunya.",
+      "perawi": "HR. Bukhari – Muslim",
+      "deskripsi": "Simaklah faidah indah yang disampaikan oleh ibnu Qayyim ketika menjelaskan surat Al Ankabut ayat 69. Allah Ta’ala berfirman\n\n“Dan orang orang yang berjihad di jalan Kami, Kami akan memberikan kepada mereka hidayah kepada jalan jalan Kami.” (Al Ankabut: 69).\n\nIbnu Qayyim rahimahullah berkata, “Dalam ayat ini Allah mengaitkan hidayah dengan jihad. Orang yang paling sempurna hidayahnya adalah yang paling sempurna jihadnya. Jihad yang paling wajib adalah menjihadi diri sendiri, menjihadi hawa nafsu, menjihadi setan dan menjihadi dunia. Siapa yang menjihadi empat perkara ini karena Allah, maka Allah akan memberinya hidayah kepada jalan jalan keridloanNya yang akan menyampaikannya ke surga. Siapa yang meninggalkan jihad maka ia akan kehilangan hidayah sejumlah jihad yang ia tinggalkan.\n\nAl Junaid berkata, “(Maknanya) Dan orang orang yang menjihadi hawa nafsunya di jalan Kami dengan cara bertaubat, Kami akan memberikan kepada mereka hidayah kepada jalan jalan ikhlas. Tidak mungkin ia menjihadi musuhnya yang lahiriyah kecuali dengan menjihadi musuhnya yang batin. Barang siapa yang menang melawan musuhnya yang batin, ia akan menang melawan musuhnya yang lahiriyah. Dan siapa yang kalah oleh musuhnya yang batin, ia akan dikalahkan oleh musuhnya yang lahiriyah” (Fawaidul Fawaid hal. 177)."
+    },
+    {
+      "nomor": "78",
+      "judul": "ORANG YANG SANGAT DI BENCI ALLAH",
+      "hadits": "أَبْغَضُ الرِّجَالِ إِلىَ اللهِ اْلأَلَدُّ الْخَصِمُ",
+      "arti": "Orang yang paling dibenci Allah adalah yang suka berdebat.",
+      "perawi": "HR. Bukhari – Muslim",
+      "deskripsi": "Yang dimaksud orang yang paling dibenci di sini adalah orang yang berdebat dengan cara yang keras.\n\nSecara umum, orang yang suka berdebat (yang tercela) akan menghilangkan keberkahan pada ilmunya. Karena orang yang menjatuhkan diri dalam perdebatan (yang tercela) tujuannya hanya ingin dirinya menang. Itulah sebab, hilangnya berkah ilmu pada dirinya.\n\nAdapun orang yang menginginkan kebenaran, maka kebenaran itu akan mudah diterima, tidak perlu dengan debat yang keras. Karena kebenaran itu begitu jelas dan terang benderang.\n\nCoba lihat saja pada pelaku bid’ah yang ingin mendukung kebid’ahannya. Yang ada, keberkahan ilmu pada dirinya berkurang. Ia sama sekali tidak bertujuan untuk mencari kebenaran. Karena ia hanya ingin mencari-cari pembenaran untuk mendukung pendapatnya saja, bukan sejatinya mencari kebenaran.\n\nOleh karena itu, siapa saja yang berdebat hanya untuk cari menang, maka ia tidak diberi taufik dan tidak mendapatkan keberkahan ilmu. Adapun yang berdebat (berdiskusi) karena ingin meraih ilmu dan ingin meraih kebenaran serta menyanggah kebatilan, maka itulah yang diperintahkan."
+    },
+    {
+      "nomor": "79",
+      "judul": "TANDA-TANDA ORANG MU’MIN",
+      "hadits": "Hadits belum tersedia, nanti kita update lagi yaaa.",
+      "arti": "Kalau perbuatanmu yang baik itu menggembirakan hatimu, dan dan perbuatanmu yang jahat itu menyusahkan padamu, maka itu adalah tanda bahwa engkau seorang mu’min.",
+      "perawi": "HR. Ahmad-Ibnu Hibban; Thabrani hakim dan Baihaqi",
+      "deskripsi": "Belum ada deskripsi."
+    },
+    {
+      "nomor": "80",
+      "judul": "BAGAIMANA MEMADAMKAN MARAH",
+      "hadits": "إِنَّ الْغَضَبَ مِنْ الشَّيْطَانِ وَإِنَّ الشَّيْطَانَ خُلِقَ مِنْ النَّارِ وَإِنَّمَا تُطْفَأُ النَّارُ بِالْمَاءِ فَإِذَا غَضِبَ أَحَدُكُمْ فَلْيَتَوَضَّأْ",
+      "arti": "Sesungguhnya amarah itu dari setan dan setan diciptakan dari api. Api akan padam dengan air. Apabila salah seorang dari kalian marah, hendaknya berwudhu.",
+      "perawi": "HR. Abu Daud",
+      "deskripsi": "Banyak hal yang membuat kita marah, entah karena perbuatan orang lain, masalah pekerjaan, maupun karena keadaan yang menjengkelkan. Marah yang tidak diperbolehkan adalah marah karena menuruti hawan nafsu. Sedangkan marah yang diperbolehkan adalah marah karena suatu kemaksiatan. Ada pula marah yang terpuji, yaitu marah semata-mata karena Allah dan agama-Nya.\n\nRasulullah telah memberikan contoh bagaimana cara meredam kemarahan. Salah satunya dengan berwudhu. Dengan berwudhu dan berusaha mencegah wudhu, kita bisa mengendalikan emosi. Berwudhu menghindarkan kita dari perbuatan yang tidak baik, salah satunya adalah kemarahan. Rasulullah bersabda, “Sesungguhnya marah itu dari setan dan setan terbuat dari api. Dan api itu hanya bisa dipadamkan oleh air. Oleh karena itu, jika seorang di antara kamu marah maka berwudhulah. ” (Riwayat Abu Daud).\n\nOrang yang senantiasa menjaga wudhu akan merasa tidak nyaman jika harus marah. Orang yang menjaga wudhu akan berusaha menjaga diri dari perbuatan maksiat, serta malu kepada Allah jika terbersit keinginan untuk meluapkan emosi. Merekan akan menjaga emosi agar tidak meledak-ledak.\n\nOleh karena itu, jika hati kita merasa panas, emosi datang tiba-tiba, segeralah beristighfar. Kemudian ambillah air wudhu, sambil terus memohon ampun kepada Allah. Niscaya, hati kita akan segera tenang kembali."
     }
 
   ]
