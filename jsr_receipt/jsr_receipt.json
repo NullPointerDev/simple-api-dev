@@ -1,0 +1,16 @@
+{
+  "status": "Success",
+  "message": "Menampilkan list resep Jurus Sehat Rasulullah - JSR",
+  "source": "Ust. Zaidul Akbar, Sulityowati, Kieky Kukuh",
+  "data": [
+    {
+      "title": "Infused Water Jahe",
+      "manfaat": "Manfaat infused water jahe ini bisa digunakan untuk obat flu",
+      "bahan": "<ul><li>1 batang kayu manis</li><li>3 buah cengkeh</li><li>2 sdm madu</li><li>1/2 sdt beepolen</li><li>200-300 ml air</li><li>1 ruang jahe</li></ul>",
+      "cara_membuat": "<ul><li>Jahe digeprek,tambahkan cengkeh dan kayu manis,diamkan hingga hangat</li><li>Lalu beri madu dan beepolen</li><li>Aduk hingga rata dan minum selagi hangat</li></ul>",
+      "note": "Infused water jahe ini lebih nikmat jika dinikmati selagi masih hangat",
+      "source": "Ust. Zaidul Akbar",
+      "image":"https://cdns.klimg.com/merdeka.com/i/w/news/2016/05/26/711946/540x270/infused-water-dari-jahe-simpan-6-manfaat-sehat-ini.jpg"
+    }
+  ]
+}
